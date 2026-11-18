@@ -166,8 +166,6 @@ linux-server-health-toolkit/
 
 ## Author
 
-**Jahnavi A Reddy**
+**Shubham**
 
-## License
 
-MIT — see [LICENSE](LICENSE).
