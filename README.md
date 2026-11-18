@@ -103,11 +103,4 @@ The toolkit stores:
 
 GitHub: [Shubham7soft](https://github.com/Shubham7soft)
 
-## Original Project Credit
-
-This repository is maintained as a separate copy of the original project by **Jahnavi A Reddy**.
-
-Original repository: https://github.com/jjahnaviareddy/linux-server-health-toolkit
-
-The original MIT license is retained.
 
